@@ -8,5 +8,6 @@ int main(void)
 /* Note: You are not allowed to use print of or puts instead you are going to use write
 */
   write(2, "and that  piece of art is useful\" - Dora Korpar, 2015-10-19", 59);
-return (0);
+  /* insert one before and after two*/
+return (1);
 }
