@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
-*main Entry point for our program using better linter
-*Return: 0 always success
+*main - Entry point
+*Return: 0 is successful, a nonzero otherwise
 */
 
 int main(void)
