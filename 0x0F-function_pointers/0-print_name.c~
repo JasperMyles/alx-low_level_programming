@@ -1,0 +1,24 @@
+#include <stdio.h>
+#include "function_pointers.h"
+
+/**
+ * print_name - prints a name is 
+ * @name: name of the person
+ *
+ *Return: (0) Success
+ */
+
+void print_name(char *name)
+{
+  _putchar("Hello, my name is")
+    scanf("%s", &name)
+    return (0);
+}
+
+void main()
+{
+  void (*f)(char *) = &print_name;
+
+}
+
+
